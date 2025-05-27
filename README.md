@@ -42,6 +42,7 @@ Make sure Python 3 is installed. You can download it from [python.org](https://w
 
 ```bash
 python calculator.py
+```
 This will open a window with a fully functional scientific calculator.
 ## 🧠 How It Works
 
