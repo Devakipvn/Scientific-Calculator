@@ -43,27 +43,26 @@ Make sure Python 3 is installed. You can download it from [python.org](https://w
 ```bash
 python calculator.py
 This will open a window with a fully functional scientific calculator.
-
 ## 🧠 How It Works
-All inputs are displayed in a Tkinter Entry widget.
 
-Buttons are dynamically placed using a grid layout.
-
-Clicking buttons appends values to the display or performs functions like sqrt, sin, etc.
-
-Trigonometric functions take input in degrees and convert to radians internally.
+- All inputs are displayed in a **Tkinter `Entry` widget**.
+- Buttons are dynamically placed using a **grid layout**.
+- Clicking buttons appends values to the display or performs functions like `sqrt`, `sin`, etc.
+- Trigonometric functions take input in **degrees** and convert them to **radians** internally using the `math` module.
 
 ## 🧼 Error Handling
-Handles invalid input with "Error" message
 
-Prevents crashes due to math domain errors or invalid expressions
+- Handles invalid input with a user-friendly **"Error"** message.
+- Prevents application crashes due to **math domain errors** or **invalid expressions** using `try-except` blocks.
 
-#👩‍💻 Author
-PVN Devaki
-📧 devakipvn@gmail.com
-🔗 LinkedIn-https://www.linkedin.com/in/pvndevaki/
+## 👩‍💻 Author
 
-📄 License
-This project is open-source and available under the MIT License.
+**PVN Devaki**  
+📧 [devakipvn@gmail.com]  
+🔗 [LinkedIn](https://www.linkedin.com/in/pvndevaki) 
+
+## 📄 License
+
+This project is open-source and available under the **[MIT License](LICENSE)**.
 
 
