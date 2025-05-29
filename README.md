@@ -24,14 +24,12 @@ This project is a GUI-based **Scientific Calculator** built with **Python** and 
 - **math** module
 
 ## 📂 Folder Structure
+```
 ScientificCalculator/
 │
 ├── calculator.py # Main calculator code
 ├── README.md # Project documentation
-
-yaml
-Copy
-Edit
+```
 
 ## ▶️ Getting Started
 
